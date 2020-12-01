@@ -1,4 +1,4 @@
-# Desktop Client
+# Divvy Desktop Client
 
 ## Build
 
